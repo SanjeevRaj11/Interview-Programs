@@ -2,7 +2,6 @@ package interviewProgramsFundamentals;
 
 public class PatternProgram13 {
 
-	//Complete Time: 06:25:99
 	public static void main(String[] args) {
 
 /*
