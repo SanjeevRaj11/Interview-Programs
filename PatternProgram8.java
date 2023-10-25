@@ -4,7 +4,6 @@ public class PatternProgram8 {
 
 	public static void main(String[] args) {
 		
-		//Complete time: 09:49:88
 		
 /*
 		1       	*
