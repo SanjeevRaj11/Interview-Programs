@@ -6,9 +6,9 @@ public class PatternProgram10 {
 
 /* Decoded Pyramid-Pattern         Pyramid Pattern:
  //No space "BETWEEN" #.
-		####1_							1
-		###1_2_             	       1 2 
-		##1_2_3_   					  1 2 3
+		####1_				    1
+		###1_2_             	       	   1 2 
+		##1_2_3_   			  1 2 3
 		#1_2 3_4_                	 1 2 3 4
 		1_2_3_4_5_              	1 2 3 4 5
 
