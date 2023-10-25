@@ -2,8 +2,6 @@ package interviewProgramsFundamentals;
 
 public class PatternProgram11 {
 	
-	//Complete Time: 04:34:92
-	
 	public static void main(String[] args) {
 		
 
@@ -13,8 +11,8 @@ public class PatternProgram11 {
 	1 2 3 4 5      				         1 2 3 4 5
 	#1 2 3 4	             			  1 2 3 4
 	##1 2 3 	              			   1 2 3
-	###1 2                     				1 2
-	####1		                			 1
+	###1 2                     		             1 2
+	####1		                		      1
 */		
 		for(int row=5; row>=1; row--) {
 			for(int col1=5; col1>row; col1--) {
